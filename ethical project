@@ -1,0 +1,29 @@
+Ethical Hacking Technical Report Client: https://gomovies.sx/
+
+Date: May 20, 2024
+
+Prepared by: Soliman, Limuel B./ Mataya, Jessica
+
+Executive Summary: GoMovies technical findings from operates in a legal gray area, which might expose users to legal risks. The site may lack security measures, increasing the risk of malware and privacy breaches. Additionally, the quality and availability of content can be inconsistent, and users may face issues with buffering and playback. The reliance on third-party advertisements and pop-ups can also detract from the user experience and pose further security risks.
+Vulnerability Summary:
+
+Network Infrastructure: The site faces security vulnerabilities from malware via ads and pop-ups, legal risks from unauthorized streaming of copyrighted content, inconsistent content quality with frequent buffering and low resolution, degradation of user experience due to heavy ad dependence, and technical instability with outages and slow performance due to inadequate server infrastructure (StreamingWebsites, Robots.net).
+Web Applications: Critical: The GoMovies web application has legal issues due to unauthorized streaming of copyrighted content, security risks from ads and pop-ups, unreliable content quality with frequent buffering and low-resolution streams, and technical problems with outages and slow performance due to inadequate server infrastructure.
+Operating System websites can include security vulnerabilities like SQL injection, cross-site scripting (XSS), inadequate encryption leading to data breaches, poor password security practices, lack of regular updates and patches, and more. It's always a good idea to ensure your website is secure by following best practices and regularly updating your security measures.
+Wireless Networks: While convenient, wireless networks can be less secure, slower, and more prone to interference than wired connections.
+Social Engineering: GoMovies.sx is vulnerable to social engineering tactics, including malware-laden pop-ups, phishing attempts, and unauthorized data collection, posing significant security and privacy risks to users (StreamingWebsites) (washingtonindependent.org) (TME.NET).
+
+Recommendations
+
+Network Infrastructure:
+To enhance the network infrastructure of GoMovies, it is recommended to implement robust security measures, including advanced firewalls and intrusion detection systems, ensure regular updates and patches for server software, and consider using a content delivery network (CDN) to improve site speed and reliability.
+Web Applications:
+To enhance the web applications of GoMovies, it is recommended to implement robust security measures such as using HTTPS for encrypted data transmission, incorporating secure authentication protocols, and regularly updating software to mitigate vulnerabilities. Additionally, optimizing the user interface for better navigation, minimizing intrusive advertisements, and ensuring compatibility across various devices can significantly improve the user experience.
+Operating Systems:
+To enhance the security and performance of the operating systems used by GoMovies.sx, it's essential to implement regular updates and patches, utilize robust antivirus and anti-malware software, and enforce strict access controls and user permissions.
+Wireless Networks:
+To enhance the wireless network infrastructure for GoMovies.sx, it is recommended to implement advanced security protocols like WPA3 to ensure secure connections, optimize bandwidth management to prioritize streaming traffic, and deploy additional access improve points to coverage and reduce congestion for a smoother user experience..
+Social Engineering:
+To mitigate social engineering risks on the GoMovies website, it is recommended to educate users about the dangers of phishing and other deceptive tactics, encourage strong, unique passwords for different accounts, and implement multi-factor authentication for enhanced security. Additionally, regular updates on potential threats and safe browsing practices can further protect users from falling victim to social engineering attacks
+
+Signature: Soliman, Limuel B./ Mataya, Jessica
